@@ -25,9 +25,9 @@ app.get('/',function(req,res,next){
          });
 
         res.send(items);
-         // console.log(error)
+          // console.log(error)
           // console.log(response)
-        // console.log(body)
+          // console.log(body)
     });
 
 
